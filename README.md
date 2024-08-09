@@ -1,5 +1,5 @@
 ### Hi, I'm Luke Philipps!
-I'm a graphics programmer with professional experience in software and Unity XR development. My current focuses include DirectX 12 pipelines, URP shaders, and screen space post-processing effects.
+I'm a graphics programmer with professional experience in software and Unity XR development.
 
 Feel free to check out some of my projects below!
 
